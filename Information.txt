@@ -1,0 +1,7 @@
+// Required, must install first
+// npm install express
+// npm install node-localstorage
+// npm install jsdom
+// npm install express-session
+// npm install --save express-session
+// npm install --save body-parser multer
